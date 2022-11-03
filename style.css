@@ -1,0 +1,14 @@
+/* CSS files add styling rules to your content */
+
+body {
+ background-color:#faffadFF; 
+}
+
+h1 {
+  color: #ff0000FF;
+  font-size: 2em;
+}
+
+img {
+  text-align: center;
+}
